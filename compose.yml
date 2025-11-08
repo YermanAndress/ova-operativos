@@ -1,6 +1,6 @@
 services:
   spring-jni:
-    image: 'danielag3/lib-cpu-info:latest'
+    image: 'yermanandress/lib-cpu-info:latest'
     ports:
       - '8083:8080'
     networks:
