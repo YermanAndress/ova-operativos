@@ -1,4 +1,4 @@
-package com.uceva.edu.ovaarquitectura.controller;
+package com.uceva.edu.ovaoperativos.controller;
 
 import jni.InfoCpu;
 import org.springframework.web.bind.annotation.CrossOrigin;
@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @CrossOrigin
-@RequestMapping("/api/lib-arquitectura")
+@RequestMapping("/api/lib-operativos")
 public class JNIRestController {
     private InfoCpu infoCpu;
 

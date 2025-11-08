@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.uceva.edu</groupId>
-    <artifactId>Ova-Arquitectura</artifactId>
+    <artifactId>Ova-Operativos</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Ova-Arquitectura</name>
     <description>Ova-Arquitectura</description>
